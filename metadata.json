@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Muslima Shop Navoiy",
+  "description": "A 3D immersive scrolling website for Muslima Shop Navoiy, showcasing premium kidswear with soft pastel aesthetics and scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
